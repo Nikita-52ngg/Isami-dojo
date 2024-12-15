@@ -1,0 +1,550 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #ffffff;
+  height: 3901px;
+  position: relative;
+  overflow: hidden;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.image-3 {
+  background: linear-gradient(
+    101.1deg,
+    rgba(0, 0, 0, 0.75) 63.83789777755737%,
+    rgba(78, 133, 64, 0.75) 87.04410791397095%,
+    rgba(74, 117, 62, 0.75) 100%
+  );
+  width: 2025px;
+  height: 911px;
+  position: absolute;
+  left: 1920px;
+  top: 90px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  object-fit: cover;
+}
+.group-2 {
+  width: 1920px;
+  height: 90px;
+  position: static;
+}
+.rectangle-5 {
+  background: #000000;
+  width: 1920px;
+  height: 90px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.isami-dojo-karate-and-hand-to-hand-combat-in-astrakhan {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 13px;
+  top: 26px;
+  width: 1001px;
+  height: 38px;
+}
+.isami-dojo-karate-and-hand-to-hand-combat-in-astrakhan-span {
+  color: #ffffff;
+  font-family: "Inter-Black", sans-serif;
+  font-size: 32px;
+  font-weight: 900;
+}
+.isami-dojo-karate-and-hand-to-hand-combat-in-astrakhan-span2 {
+  color: #ffffff;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.isami-dojo-karate-and-hand-to-hand-combat-in-astrakhan-span3 {
+  color: #ffffff;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+._7-967-336-50-31 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  text-decoration: underline;
+  position: absolute;
+  left: 1392px;
+  top: 32px;
+  width: 227px;
+  height: 26px;
+}
+.smk-isami-dojo {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 24px;
+  font-weight: 200;
+  position: absolute;
+  left: 1635px;
+  top: 31px;
+  width: 204px;
+  height: 26px;
+}
+.vk-5968835-1 {
+  width: 39px;
+  height: 39px;
+  position: absolute;
+  left: 1324px;
+  top: 26px;
+  object-fit: cover;
+}
+.whatsapp-174879-1 {
+  width: 39px;
+  height: 39px;
+  position: absolute;
+  left: 1258px;
+  top: 25px;
+  object-fit: cover;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.isami-dojo-10 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 779px;
+  top: 430px;
+  width: 1064px;
+  height: 367px;
+}
+.isami-dojo-10-span {
+  color: #000000;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+}
+.isami-dojo-10-span2 {
+  color: #000000;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.isami-dojo-10-span3 {
+  color: #000000;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 27px;
+  font-weight: 400;
+}
+.image-2 {
+  border-radius: 800px;
+  width: 204px;
+  height: 193px;
+  position: absolute;
+  left: 52px;
+  top: 99px;
+  object-fit: cover;
+}
+.rectangle-4 {
+  background: #539e43;
+  border-radius: 60px;
+  width: 364px;
+  height: 57px;
+  position: absolute;
+  left: 1479px;
+  top: 160px;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 1213px;
+  top: 169px;
+  width: 222px;
+  height: 35px;
+}
+.div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 1496px;
+  top: 166px;
+  width: 343px;
+  height: 35px;
+}
+.div4 {
+  color: #000000;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 792px;
+  top: 166px;
+  width: 151px;
+  height: 35px;
+}
+.div5 {
+  color: #000000;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 1003px;
+  top: 166px;
+  width: 151px;
+  height: 35px;
+}
+._0-a-qy-9-vw-kt-hk-2 {
+  width: 522px;
+  height: 670px;
+  position: absolute;
+  left: 112px;
+  top: 331px;
+  object-fit: cover;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+._1671047141-cerenas-club-p-krasivie-krasnie-foni-stim-pinterest-18-1 {
+  width: 1963.7px;
+  height: 1078.74px;
+  position: absolute;
+  left: -44px;
+  top: 1001.64px;
+  transform-origin: 0 0;
+  transform: rotate(-0.023deg) scale(1, 1);
+  object-fit: cover;
+}
+.image-4 {
+  width: 919.46px;
+  height: 503px;
+  position: absolute;
+  left: 141.42px;
+  top: 1522px;
+  object-fit: cover;
+}
+.rectangle-21 {
+  width: 1963.7px;
+  height: 654.4px;
+  position: absolute;
+  left: -43.7px;
+  top: 1412.39px;
+  overflow: visible;
+}
+._8 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 132.21px;
+  top: 1443.89px;
+  width: 1600.62px;
+  height: 56.9px;
+}
+._5-2-3-4-6-7-8-20 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1112.02px;
+  top: 1548.55px;
+  width: 645.36px;
+  height: 506.04px;
+}
+._5-2-3-4-6-7-8-20-span {
+  color: #ffffff;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+._5-2-3-4-6-7-8-20-span2 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+._5-2-3-4-6-7-8-20-span3 {
+  color: #ffffff;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+._5-2-3-4-6-7-8-20-span4 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+}
+.line-1 {
+  margin-top: -15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 15px 0 0 0;
+  width: 1963.7px;
+  height: 0px;
+  position: absolute;
+  left: -43.7px;
+  top: 2079.99px;
+}
+.group-6 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 2080px;
+  overflow: visible;
+}
+.group-13 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-12 {
+  width: 1920px;
+  height: 994px;
+  position: absolute;
+  left: 0px;
+  top: 2907px;
+  overflow: visible;
+}
+.image-32 {
+  border-radius: 1000px;
+  width: 350px;
+  height: 345.75px;
+  position: absolute;
+  left: 780px;
+  top: 2957px;
+  object-fit: cover;
+}
+._4 {
+  color: #fffcfc;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 242px;
+  top: 3344px;
+  width: 1401px;
+  height: 162px;
+}
+.rectangle-13 {
+  background: #101010;
+  border-style: solid;
+  border-color: #505050;
+  border-width: 4px;
+  width: 654px;
+  height: 246px;
+  position: absolute;
+  left: 633px;
+  top: 3547px;
+}
+._26-28-85-5-19-3-65-17-telegram-https-t-me-smk-isamidojo-7-967-336-50-31-smk-isami-dojo {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  left: 638px;
+  top: 3551px;
+  width: 649px;
+  height: 242px;
+}
+._26-28-85-5-19-3-65-17-telegram-https-t-me-smk-isamidojo-7-967-336-50-31-smk-isami-dojo-span {
+  color: #ffffff;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+}
+._26-28-85-5-19-3-65-17-telegram-https-t-me-smk-isamidojo-7-967-336-50-31-smk-isami-dojo-span2 {
+  color: #ffffff;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+._26-28-85-5-19-3-65-17-telegram-https-t-me-smk-isamidojo-7-967-336-50-31-smk-isami-dojo-span3 {
+  color: #ffffff;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  text-decoration: underline;
+}
+._26-28-85-5-19-3-65-17-telegram-https-t-me-smk-isamidojo-7-967-336-50-31-smk-isami-dojo-span4 {
+  color: #ffffff;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+}
+.group-14 {
+  position: absolute;
+  inset: 0;
+}
+.div6 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 319px;
+  top: 1026.99px;
+  width: 1270px;
+  height: 46.77px;
+}
+.rectangle-7 {
+  background: #fafafa;
+  border-radius: 10px;
+  width: 1559px;
+  height: 50.93px;
+  position: absolute;
+  left: 181px;
+  top: 1170.42px;
+}
+.rectangle-11 {
+  background: #fafafa;
+  border-radius: 10px;
+  width: 1559px;
+  height: 50.93px;
+  position: absolute;
+  left: 181px;
+  top: 1241.1px;
+}
+.rectangle-10 {
+  border-radius: 0px;
+  width: 1559px;
+  height: 60px;
+  position: absolute;
+  left: 181px;
+  top: 1308px;
+  overflow: visible;
+}
+.div7 {
+  color: #807f7f;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 204px;
+  top: 1182.9px;
+  width: 1512px;
+  height: 35.34px;
+}
+.div8 {
+  color: #807f7f;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: absolute;
+  left: 198px;
+  top: 1254.62px;
+  width: 1512px;
+  height: 35.34px;
+}
+.div9 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 198px;
+  top: 1323px;
+  width: 1512px;
+  height: 35.34px;
+}
+.rectangle-33 {
+  background: #000000;
+  width: 1920px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 1001px;
+}
+
+.navigation-bar {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.logo img {
+  width: 50px;
+  height: auto;
+}
+
+.navigation-menu ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 20px;
+}
+
+.navigation-menu ul li {
+  display: inline;
+}
+
+.navigation-menu ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.navigation-menu ul li a:hover {
+  color: #2ECC71;
+}
+
+.navigation-menu ul li a.highlight {
+  background-color: #2ECC71;
+  color: #000;
+  padding: 5px 15px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.navigation-menu ul li a.highlight:hover {
+  background-color: #27AE60;
+}
